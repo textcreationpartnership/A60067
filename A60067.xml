@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short directory for the great necessary and advantagious duty of self-examination whereby a serious believer may every evening examine himself.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60067</idno>
+            <idno type="STC">Wing S3583</idno>
+            <idno type="STC">ESTC R11529</idno>
+            <idno type="EEBO-CITATION">13298984</idno>
+            <idno type="OCLC">ocm 13298984</idno>
+            <idno type="VID">98917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98917)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 439:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Short directory for the great necessary and advantagious duty of self-examination whereby a serious believer may every evening examine himself.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bringhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Four columns to the page.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conscience, Examination of --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:98917:1" rendition="simple:additions"/>
+            <head>A SHORT DIRECTORY For the Great Neceſſary and Advantagious Duty of Self-Examination, Whereby a Serious Believer may every Evening Examine himſelf.</head>
+            <div n="1" type="part">
+               <head>
+                  <hi>1.</hi> Queſtions relating to Religious Exerciſes.</head>
+               <p>HAve I had any ſenſible Com<g ref="char:EOLhyphen"/>munion with God in the Exer<g ref="char:EOLhyphen"/>ciſe?</p>
+               <p n="2">2. Have I not neglected my private, nor my Family Duties?</p>
+               <p n="3">3. Have I not Omitted reading the Word of God?</p>
+               <p n="4">4. Have I not omitted holy Meditations concerning, <hi>1ſt,</hi> the Word preached: <hi>2dly,</hi> concerning God: <hi>3dly,</hi> concerning Chriſt: <hi>4thly,</hi> concerning Sin: <hi>5thly</hi> concerning Scrip<g ref="char:EOLhyphen"/>tures, the Word of God: <hi>6thly,</hi> Providences, the Works of God: <hi>7thly,</hi> about my Duties: <hi>8thly,</hi> about Death: <hi>9thly,</hi> about the laſt Judg<g ref="char:EOLhyphen"/>ment: <hi>10thly,</hi> about Hell: <hi>11thly,</hi> about Heaven, &amp;c?</p>
+               <p n="5">5. Have I not been careleſs and formal in Prayer, either private in the Cloſet, or in Fa<g ref="char:EOLhyphen"/>mily Prayers, and performed the ſame out of Cuſtom, and not out of love and affection to the Duty?</p>
+               <p n="6">6. Have I not been careleſs and ſuperficial in reading the Word, but ſerious and zealous to pray for a Bleſſing, for encreaſe of Life ana Light by that Duty?</p>
+               <p n="7">7. Have I not for haſte in worldly buſineſs cut my Prayers ſhort off, or laid upon my Bed for idleneſs, when I ſhould have been upon my Knees?</p>
+               <p n="8">8. Have I after Duty gone upon my Watch-Tower, to look out and watch for a Bleſſing, and the Fruits of my Duties?</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II.</hi> Queſtions relating to Sins and Temptations.</head>
+               <p n="1">1. HAve I guarded againſt, and feared Temptations? or have I heedleſly ruſhed among them?</p>
+               <p n="2">2. What Temptations have I this day ſtriven againſt and conquered?</p>
+               <p n="3">3. Have I this day done nothing againſt or contrary to my Knowledge, &amp;c? or have I not ſined with full purpoſe and reſolution?</p>
+               <p n="4">4. Do I not knowingly live in a courſe of Sin, whether of Omiſſion or Commiſſion?</p>
+               <p n="5">5. mave I carefully kept my ſelf from my Iniquity? or have I again relapſed into it?</p>
+               <p n="6">6. Have I given any man an occaſion of Offence, or been offended unjuſtly by any this day?</p>
+               <p n="7">7. Does not Sin lie light upon my heart, ſo that die Goſpel and Grace, Chriſt and the Promiſes are leſs ſweet and precious to me?</p>
+               <p n="8">8. When I fell into any Sin, did I ſeriouſly without delay, riſe again by Repentance, and neither paliated or extenuated my Sin?</p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>III.</hi> Queſtions relating to the Thoughts of the Heart.</head>
+               <p n="1">1. HAve I kept my Heart in a ſerious ſpiri<g ref="char:EOLhyphen"/>tual and holy Frame, ſo to be ready at all times for the exerciſe of holy Du<g ref="char:EOLhyphen"/>ties, and ſo have gone from one Duty to another?</p>
+               <p n="2">2. Have I had the Lord alwayes before my Eyes? and eſpecialy, have my Thoughts been of him when I awaked?</p>
+               <p n="3">3. Hath Eternity made any Impreſſions on my Heart? and have I ſet Death and Judg<g ref="char:EOLhyphen"/>ment, with the Conſequences thereof, before my Eyes?</p>
+               <p n="4">4. Have I made Conſcience of vain, idle and wandring Thoughts and guarded againſt them?</p>
+               <p n="5">5. Have I been ſerious and frequent in holy and heavenly Ejaculations all the day, and ſo walked with God in all my Affairs?</p>
+               <p n="6">6. Have I endeavoured when private and ſolatary to order and govern my Thoughts holily?</p>
+            </div>
+            <div n="4" type="part">
+               <head>
+                  <hi>IV.</hi> Queſtions relating to Silence, and the Uſe of the Tongue.</head>
+               <p n="1">1. HAve I bridled my Tongue from vain unneceſſary Angery and perverſe words?</p>
+               <p n="2">2. Have I not ſpoken Evil of any man be<g ref="char:EOLhyphen"/>hind his back? Or did the Lord call me by diſcovering of the Wickedneſs of another, to advance and further my Neighbours Inte<g ref="char:EOLhyphen"/>reſt?</p>
+               <p n="3">3. Have I with reverence uſed the Name and Word of God, and ſpoken thereof to the Edification of others, and my ſelf at home and abroad, at my riſing up and lying down?</p>
+               <p n="4">4. Have I always ſpoken the Truth, and not ſometimes made Lyes or half Lyes?</p>
+               <p n="5">5. Have I been ſilent when the Lord called me to ſpeake for his Glory, and the Edifica<g ref="char:EOLhyphen"/>tion of others?</p>
+               <p n="6">6. Have <hi>I</hi> ſpoken when <hi>I</hi> ſhould have been ſilent?</p>
+            </div>
+            <div n="5" type="part">
+               <head>
+                  <hi>V.</hi> Queſtions relating to Eating and Drinking.</head>
+               <p n="1">1. HAve I ſeriouſly and zealouſly before Meat craved a Bleſſing, and after Meat (with the ſame Devotion) returned Thanks? Or have I done it out of Cuſtom and Faſhion only?</p>
+               <p n="2">2. Have I eat and drunk with fear, and to the Glory of God? Or did I ſit down to Table with no better deſign than the Beaſt of the Feild have, to ſatisfie Hunger and Thirſt.</p>
+               <p n="3">3. Have I not been immoderate in my eat<g ref="char:EOLhyphen"/>ing and drinking, even to Surfeiting, Over<g ref="char:EOLhyphen"/>charging my Stomach?</p>
+               <p n="4">4. Have I not riſen from Table without ſpeaking of the Name of God, or of his Word; yea, without once thinking thereon with delight?</p>
+            </div>
+            <div n="6" type="part">
+               <head>
+                  <hi>VI.</hi> Queſtions relating to our Callings.</head>
+               <p n="1">1. HAve I this day in the Duties of my Calling, had reſpect to the Lord, and ſerved him?</p>
+               <p n="2">2. Have I been dilligent in it, or idle and lazy?</p>
+               <p n="3">3. Have I dealt juſtly and honeſtly in my Calling? Have I Cheated no man no manner of way, but done to every one as I would they ſhould do to me?</p>
+               <p n="4">4. Have I not broken my Promiſes in my Calling, but been as good as my word?</p>
+               <p n="5">5. Have I not overloaden and overcharged my ſelf with worldly Affairs, and been im<g ref="char:EOLhyphen"/>moderately Anxious, Solicitous and Carefull about them, to the diſadvantage and neglect of my Soul?</p>
+            </div>
+            <div n="7" type="part">
+               <head>
+                  <hi>VII.</hi> Queſtions relating to our Carriage among others.</head>
+               <p n="1">1. HAve I carried and behaved my ſelf as as <hi>Chriſtian</hi> ought to do, in refer<g ref="char:EOLhyphen"/>rence to Superiors and Inferiors, Juniors and Seniors, and my Equals?</p>
+               <p n="2">2. Have I not neglected ſome Duties to them, to whom I have particular Relation? or have I done nothing contrary to my Duty to ſuch, but duely and truly diſcharged them?</p>
+               <p n="3">3. Have I (being a Father or Mother) taken care firſt for the Souls, and then for the Bodies of my Children, and wrought for them?</p>
+               <p n="4">4. Have I (being a Child) honoured my Father and Mother? have I loved, been obe<g ref="char:EOLhyphen"/>dient and thankfull to them?</p>
+               <p n="5">5. Have I (being a Husband) been careful for the Soul and Body of my Wife, and loved her?</p>
+               <p n="6">6. Have I (being a Wife) loved, honoured and obeyed my Husband, and heartily cared for his and the Families good, &amp;c?</p>
+               <p n="7">7. Have I (been a Maſter or Miſtriſs) been careful for the Souls and Bodies of my Ser<g ref="char:EOLhyphen"/>vants, and given them good Exhortations, Reproofs and Examples?</p>
+               <p n="8">8. Have I (being a Servant) honoured and obeyed, been true and diligent in my Maſters concerns, as a <hi>Chriſtian</hi> ought to do?</p>
+               <p n="9">9. Have I (being a Ruler either in Church or State) been Conſcientious to do the Duties of my place?</p>
+               <p n="10">10. Have I (being a Subject in the State, and a Member in the Church) carried my ſelf as becomes a Chriſtian towards the Magi<g ref="char:EOLhyphen"/>ſtrate, the Miniſter, highly reſpecting them, being ſubject and obedient to them, and pray<g ref="char:EOLhyphen"/>ing for them?</p>
+            </div>
+            <div n="8" type="part">
+               <head>
+                  <hi>VIII.</hi> Queſtions relating to our Time and Opportunities.</head>
+               <p n="1">1. HAve I this day redeemed Time for the good of my Soul, as eſteeming it precious.</p>
+               <p n="2">2. Have I not ſlept too long, and more then was neceſſary, ſo that my Exerciſes in private or in the Family muſt be ſhortned, or ſome neceſſary or profitable Work omitted?</p>
+               <p n="3">3. Have I not miſpent my time with idle unneceſſary and fruitleſs Diſcourſe, or with unneceſſary and unreaſonable Reflections?</p>
+               <p n="4">4. Have <hi>I</hi> not fed many idle and vain Im<g ref="char:EOLhyphen"/>maginations and Thoughts, which time might have been improved to the advantage of my Soul?</p>
+               <p n="5">5. Have <hi>I</hi> redeemed time from all thoſe long and unneceſſary viſits, or from long and tedious Meals?</p>
+               <p n="6">6. Have <hi>I</hi> not loſt time with too much and long Diſcourſe about worldly Things, or by doing men about them, than was neceſſary?</p>
+               <p n="7">7. Have <hi>I</hi> diligently improved my time this day for God, and for eternal Salvation, ſtriving to take Heaven by violence?</p>
+               <p n="8">8. Have <hi>I</hi> not this day omitted ſome incum<g ref="char:EOLhyphen"/>bent Opportunity, whereby <hi>I</hi> might have improved my Talent, and done good to the Souls or Bodies of others, either by Words or Works of Civility or Mercy?</p>
+               <p n="9">9. Have <hi>I</hi> constantly obſerved every op<g ref="char:EOLhyphen"/>portunity to the good of my Soul, either to its Inſtruction or Reproof, or to excite to more diligence?</p>
+            </div>
+            <div n="9" type="part">
+               <head>
+                  <hi>IX.</hi> Queſtions relating to Good Company.</head>
+               <p n="1">1. HAve I choſen Good and Holy people for my Companions, and that be<g ref="char:EOLhyphen"/>cauſe they are ſuch, and for a good end?</p>
+               <p n="2">2. Have I endeavoured to excite ſuch by my Example, and in Spiritual Conferences, to Love and Good Works?</p>
+               <p n="3">3. Have I carried my ſelf towards them, as loving them with a Hearty and Brotherly affection, and peaceably?</p>
+               <p n="4">4. Have I delighted in their Company, and rejoyeed over their Proſperity?</p>
+               <p n="5">5. Have I born their Infirmities and co<g ref="char:EOLhyphen"/>vered them, or done the contrary?</p>
+               <p n="6">6. Have I been advantagious to them with Admonitions, Conſolations, Reproofs, Counſel and other Service? and have I ſought the like advantage from them, and found it?</p>
+            </div>
+            <div n="10" type="part">
+               <head>
+                  <hi>X.</hi> Queſtions relating to Bad Company.</head>
+               <p n="1">1. HAve I carried my ſelf prudently and wiſely among the Ungodly, ſo that they have not been a ſnare to me, nor have they done me any damage?</p>
+               <p n="2">2. Have I carried my ſelf ſo Holily, that I have not been a Stone of ſtumbling to any of them, but a good Example &amp; Conviction?</p>
+               <p n="3">3. Have I been ſerious, courteous and com<g ref="char:EOLhyphen"/>paſſionate towards them, endeavouring to do them good by Reproofs, Inſtruction and Admonition?</p>
+               <p n="4">4. Have I not been aſhamed of the Word, Ways and Children of Chriſt, when among thoſe that hate and perſecute them?</p>
+            </div>
+            <div n="11" type="part">
+               <head>
+                  <hi>XI.</hi> Queſtions relating to our Carriage under various Providences.</head>
+               <p n="1">1. HAve I obſerved the perticular Provi<g ref="char:EOLhyphen"/>dences of God concerning my ſelf and others?</p>
+               <p n="2">2. Have I endeavoured to diſcern the deal<g ref="char:EOLhyphen"/>ings of God with my Soul and Body from my Prayers?</p>
+               <p n="3">3. Have I been thankful for my daily Bleſ<g ref="char:EOLhyphen"/>ſings and Benefits received from God?</p>
+               <p n="4">4. Have I born my Croſs this day willingly and chearfully, and in Adverſity ſubmitted to the hand and will of God?</p>
+            </div>
+            <div n="12" type="part">
+               <head>
+                  <hi>XII.</hi> Queſtions relating to the Exerciſe of the Principal Gifts and Graces.</head>
+               <p n="1">1. HAve I lived by Faith, depending con<g ref="char:EOLhyphen"/>ſtantly upon the Promiſes, and on Chriſt for help, ſtrength, ſucceſs &amp; acceptance with God?</p>
+               <p n="2">2. Have I with all diligence endeavoured to expreſs my Love to God, to men, and to my Enemies themſelves this day?</p>
+               <p n="3">3. Have I denyed my ſelf this day, and cur<g ref="char:EOLhyphen"/>bed my Paſſions and Affections in all accur<g ref="char:EOLhyphen"/>rences, ſo behaving my ſelf as one that de<g ref="char:EOLhyphen"/>nyes himſelf?</p>
+               <p n="4">4. Have I walked the whole day in the fear of the Lord, whether in company or alone, in divine Worſhip and Service, or in worldly affairs, always guarding againſt Sin?</p>
+               <p n="5">5. Have I been Humble, and in all things eſchewed and, ſtrived againſt Pride and High-mindedneſs?</p>
+               <p n="6">6. Have I eſchewed or ſhunned Sinful An<g ref="char:EOLhyphen"/>ger, and carried my ſelf meekly before God and men?</p>
+               <p n="7">7. Have I been content with my State and Condition, in which the Lord by his provi<g ref="char:EOLhyphen"/>dence hath ſet me?</p>
+               <p n="8">8. Have I been Patient, not murmuring or repineing when I met with Difficulties and Oppreſſion from God or men?</p>
+               <p n="9">9. Have I in all things expreſt and decla<g ref="char:EOLhyphen"/>red my Uprightneſs and Honeſty, and ſhunned and ſtriven againſt all Deceit and Hypocriſie?</p>
+               <p n="10">10. Have I been Heavenly-minded and de<g ref="char:EOLhyphen"/>lighted my ſelf in God, and ſtriven againſt Earthly-mindedneſs, and ſatisfaction in the Vanities thereof?</p>
+            </div>
+            <div n="13" type="part">
+               <head>
+                  <hi>XIII.</hi> An Epitome of the former Queſtions, when in the Evenings we have little time or plea<g ref="char:EOLhyphen"/>ſure to the Duty of Self-Examination.</head>
+               <p n="1">1. HAve I been Serious and Zealous in my ſecret and private Family Religious Exerciſes this day, and have had any ſenſible Communion with God.</p>
+               <p n="2">2. Have I ſtriven againſt my Temptations and guarded againſt my inclination ſince?</p>
+               <p n="3">3. Have I been careful to keep my Heart from duty to duty in a Spiritual frame?</p>
+               <p n="4">4. Have I not conceived Vain Thoughts, nor preſented Vain and idle diſcourſe?</p>
+               <p n="5">5. Have I had thorough the day many E<g ref="char:EOLhyphen"/>jaculatory Prayers and Sighs?</p>
+               <p n="6">6. Have I thought and ſpoken much of the Word of God?</p>
+               <p n="7">7. Have I carried my ſelf Moderatly, Self-denyingly and Spiritually in the uſe of the Creatures?</p>
+               <p n="8">8. Have I injured no man this day, neither in Words nor Works?</p>
+               <p n="9">9. Have I been all the day diligent and careful upon my Watch and Guard?</p>
+               <p n="10">10. Have I not neglected my Duty to thoſe I have particular relation to? or have I not done in this contrary to it?</p>
+               <p n="11">11. Have I not miſpent my time, nor o<g ref="char:EOLhyphen"/>mitted any good opportunity to do Good, or to receive Good?</p>
+               <p n="12">12. Have I this day been Serious in work<g ref="char:EOLhyphen"/>ing for the Glory of God and my Souls Sal<g ref="char:EOLhyphen"/>vation?</p>
+               <p n="13">13. Have I not been immoderately poring and meditating on Earthly things?</p>
+               <p n="14">14. Have I not given way to Pride, ſinful Anger, Diſcontentedneſs and Impatience?</p>
+               <p n="15">15. Have I lived by Faith, and fetched all my ſtrength from Chriſt?</p>
+               <p n="16">16. Have I let my Light ſhine among men and been profitable both to good and bad?</p>
+               <p n="17">17. Have I had a right aime and end in all my doings?</p>
+               <p n="18">18. Have I watched in Love, both to<g ref="char:EOLhyphen"/>wards God and my Neighbour?</p>
+            </div>
+            <byline>Tranſlated out of <hi>Hollands</hi> (or <hi>Low-Dutch</hi>) for the Benefit of the <hi>Engliſh.</hi>
+            </byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> John Bringhurſt, <hi>Stationer, at the Sign of the</hi> Book <hi>in</hi> Grace-Church-ſtreet, <hi>near</hi> Cornhill, 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
